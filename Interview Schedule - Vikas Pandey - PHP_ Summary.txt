@@ -1,0 +1,46 @@
+Interview Schedule - Vikas Pandey - PHP Developer - Consultant 
+Sat, Sep 7, 2024
+
+Summary:
+
+Vikas Pandey discussed his extensive experience in the IT industry, particularly in PHP, PHP frameworks, and Laravel. He presented various projects, including the Mindworkplace project, the Hotel Sonar Bangla project, and a Laravel project for tax management, showcasing their features, functionalities, and backend work. The director of operations expressed interest in exploring the admin logins and backend development for a more comprehensive evaluation of the projects.
+
+Vikas also provided insights into his experience with payment gateways, Google Captchas, and YII framework. The director emphasized the need for experienced professionals who can contribute to the company's growth and project development at a rapid pace, highlighting the urgency in closing projects efficiently. Finally, the director confirmed Vikas's location and indicated that the HR will follow up for further discussions.
+
+
+Chapters & Topics:
+
+Introduction and Project Experience Sharing
+Vikas Pandey provides a detailed overview of his work experience, including his projects in PHP, CodingNet version 3, and Laravel. He explains his role in developing client-based applications and the dynamic form process, as well as the feedback and data analytics components of the projects.
+* Vikas Pandey's professional experience and projects
+
+Presentation of Hotel Sonar Bangla Project
+Vikas Pandey provided a detailed presentation of the Hotel Sonar Bangla project, highlighting the dynamic features of the website and the backend functionalities he developed. The director of operations expressed interest in seeing the admin logins and backend work for further assessment.
+
+Project Demonstration on Laravel Tax Management
+Vikas Pandey presented a project he recently worked on, focusing on tax management using Laravel. He demonstrated features like logging, registration, and task management, and explained the use of npm packages for dynamic UI interactions. Additionally, he showcased the implementation of API endpoints and JavaScript for creating, editing, and deleting tasks.
+
+Discussion on Project Experience and Company Overview
+The director of operations questions Vikas about his experience with payment gateways, Google Captchas, and YII framework. Vikas elaborates on his project experience in Laravel and YII, and the director emphasizes the company's wide range of projects and the need for experienced individuals to contribute to their development at a fast pace.
+* Integration of payment gateways in projects
+* Implementation of Google Captchas and Google Securities
+* Use of different frameworks (Laravel, YII)
+
+
+Action Items:
+
+* Vikas Pandey will share GitHub repository for projects
+* Vikas Pandey will provide details on the project implemented in YII framework
+* Vikas Pandey will provide details on the project implemented using Postgres as a database
+* Get back to Vikas Pandey for further discussions and interviews
+
+
+Key Questions:
+
+* Have you integrated any payment gateways in your projects?
+* Have you implemented the Google Captchas and Google Securities?
+
+
+Notepad:
+
+* No notes
